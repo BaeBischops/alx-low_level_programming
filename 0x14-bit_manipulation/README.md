@@ -36,3 +36,8 @@ If you would like to contribute to this repository, please follow these guidelin
     <li>Push your changes to your fork: git push origin feature/my-feature.</li>
     <li>Create a pull request to merge your changes into this repository.</li>
 </ol>
+
+<h3>License</h3>
+This repository is open-source and available under the MIT License.
+
+Feel free to explore, learn, and contribute to the world of C bit manipulation!
