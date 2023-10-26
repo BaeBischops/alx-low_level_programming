@@ -25,3 +25,14 @@ Here is a list of programs available in this directory:
 </ol>
 
 Each program is contained in its own source file and can be compiled and executed independently.
+
+<h3>Contributing</h3>
+If you would like to contribute to this repository, please follow these guidelines:
+
+<ol>
+    <li>Fork this repository.</li>
+    <li>Create a new branch for your feature or bug fix: git checkout -b feature/my-feature or git checkout -b bugfix/issue-description.</li>
+    <li>Make your changes and commit them with meaningful commit messages.</li>
+    <li>Push your changes to your fork: git push origin feature/my-feature.</li>
+    <li>Create a pull request to merge your changes into this repository.</li>
+</ol>
