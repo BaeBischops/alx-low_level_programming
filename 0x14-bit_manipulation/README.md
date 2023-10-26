@@ -1,21 +1,24 @@
+<h1>0x14. C - Bit Manipulation</h1>
+This directory contains C programs that demonstrate the use of bit manipulation techniques in the C programming language. Bit manipulation involves the manipulation of individual bits within data, and it's often used in scenarios where you need to optimize code for performance or work with low-level hardware interactions.
 
-0x14. C - Bit manipulation
-C
- By: Julien Barbier
- Weight: 1
- Project over - took place from Apr 6, 2023 6:00 AM to Apr 11, 2023 6:00 AM
- An auto review will be launched at the deadline
-In a nutshell…
-Auto QA review: 0.0/55 mandatory & 0.0/8 optional
-Altogether:  0.0%
-Mandatory: 0.0%
-Optional: 0.0%
-Calculation:  0.0% + (0.0% * 0.0%)  == 0.0%
+<h3>Table of Contents</h3>
+<ol>
+<li>Introduction</li>
+<li>List of Programs</li>
+<li>Contributing</li>
+<li>License</li>
+</ol>
 
+<h3>Introduction</h3>
+The programs in this directory cover various bit manipulation operations such as setting, clearing, toggling, and checking bits, as well as more advanced operations like bit shifting and bitwise logical operations. These programs serve as educational examples and can be used as a reference when working on projects that require bit manipulation.
 
-Resources
-Read or watch:
+<h3>List of Programs</h3>
+Here is a list of programs available in this directory:
 
-Google
-Youtube
-Learning Ob
+0-binary_to_uint.c: Converts a binary representation to an unsigned integer.
+1-print_binary.c: Prints the binary representation of an integer.
+2-get_bit.c: Retrieves the value of a specific bit at a given index.
+3-set_bit.c: Sets the value of a specific bit at a given index.
+4-clear_bit.c: Clears the value of a specific bit at a given index.
+5-flip_bits.c: Determines the number of bits that need to be flipped to convert one number to another.
+Each program is contained in its own source file and can be compiled and executed independently.
