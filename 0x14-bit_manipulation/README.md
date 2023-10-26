@@ -15,10 +15,13 @@ The programs in this directory cover various bit manipulation operations such as
 <h3>List of Programs</h3>
 Here is a list of programs available in this directory:
 
-0-binary_to_uint.c: Converts a binary representation to an unsigned integer.
-1-print_binary.c: Prints the binary representation of an integer.
-2-get_bit.c: Retrieves the value of a specific bit at a given index.
-3-set_bit.c: Sets the value of a specific bit at a given index.
-4-clear_bit.c: Clears the value of a specific bit at a given index.
-5-flip_bits.c: Determines the number of bits that need to be flipped to convert one number to another.
+<ol>
+    <li>0-binary_to_uint.c: Converts a binary representation to an unsigned integer.</li>
+    <li>1-print_binary.c: Prints the binary representation of an integer.</li>
+    <li>2-get_bit.c: Retrieves the value of a specific bit at a given index.</li>
+    <li>3-set_bit.c: Sets the value of a specific bit at a given index.</li>
+    <li>4-clear_bit.c: Clears the value of a specific bit at a given index.</li>
+    <li>5-flip_bits.c: Determines the number of bits that need to be flipped to convert one number to another.</li>
+</ol>
+
 Each program is contained in its own source file and can be compiled and executed independently.
