@@ -5,3 +5,6 @@ This repository contains the solutions to the "0x01 Variables, If, Else, While" 
 <h3>Introduction</h3>
 
 The "0x01 Variables, If, Else, While" project is designed to help you build a solid foundation in low-level programming with the C language. It covers fundamental concepts and challenges related to variables, conditional statements (if-else), and iterative structures (while loops).
+
+<h3>Project Tasks</h3>
+
